@@ -32,6 +32,7 @@ public class GitDemo
 	        }
 	        
 	        return newNumber;
+
 	    }
 	    
 	    /*****
@@ -50,5 +51,6 @@ public class GitDemo
 	        }
 	        
 	        return reverseNum;
+
 	    }
 }
